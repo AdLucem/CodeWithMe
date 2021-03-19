@@ -1,5 +1,6 @@
 # CodeWithMe
-Learning to code with a bunch of friends
+
+Learning to code with a bunch of friends. Also, reconstructing my basic programming language notes while I'm at it. 
 
 - Milestone 0
 
@@ -14,7 +15,7 @@ a math `=` )
 
 - Milestone 2
 
-Python has basic operators: `+` `-` `*` `/` `%` `=` `==` `//` `**`
+Python has basic operators: `+` `-` `*` `/` `%` `==` `//` `**`
 Python has basic types: `string`, `int`, `float`, `boolean`
 For each operator: what types does it work on, what result does it give for every type-combination, and what type combinations is it invalid for? We basically want to make a list like this:
 
@@ -25,3 +26,11 @@ For each operator: what types does it work on, what result does it give for ever
 * `+` : int `+` int -> int : adds both integers
 
 and so on for all the basic operators and type combinations.
+
+- Challenge for Class 2:
+
+See if you can get an error that's not a TypeError or a SyntaxError.
+
+- More Challenge
+
+Bracket the `==` operator
